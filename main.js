@@ -413,7 +413,7 @@ function onAboutClicked() {
   let aboutPage = $(`<div class="title">
   <div>
       <div class="img-head card aboutBorder">
-          <img class="profile-img" src="WhatsApp Image 2021-06-15 at 21.20.23.jpeg">
+          <img class="profile-img" src="profile image.jpeg">
           <div>
           </div>
           <h1 class="title-fonts about-title-fonts">Welcome!</h1>
